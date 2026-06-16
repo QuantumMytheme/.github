@@ -25,7 +25,7 @@ Build an open, reproducible, re-verifiable corpus of verified quantum designs th
 Compare design approaches — different ansätze, qubit topologies, coupling maps, feature maps — and classical baselines on the *same* judge-scored problems. Which approach currently leads is public, and the frontier moves in the open.
 
 **3 · For the curious, to hill-climb.**
-A place to start a harness prompt for a capable model — today **Opus 4.8** / **Fable 5**, and built to be ready for the next-gen models you may know as **Mythos** / **Lythos** — and watch it loop to ACCEPT. Point it at a BRIEF, then try to beat the current best verified score.
+A place to start a harness prompt for a capable model — today **Opus 4.8** / **Fable 5**, and built to be ready for the next-gen models you may know as **Mythos** — and watch it loop to ACCEPT. Point it at a BRIEF, then try to beat the current best verified score.
 
 > Models are model-agnostic fuel. The judge does not care who — or what — produced a bundle; it only re-simulates.
 

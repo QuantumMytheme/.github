@@ -4,6 +4,8 @@
 
 We build open, reproducible benches where a deterministic judge — not human taste — decides whether a quantum design is correct. Every claim re-runs on a laptop: numpy only, offline, no QPU required.
 
+**The bigger why.** This bench is the wedge — the hardest verifiability case — for a **verifiable-efficiency referee**: one re-checkable yardstick for how machine intelligence gets useful and far more efficient. We're honest about where quantum fits — it will *not* make today's LLMs faster, cheaper, or greener; its genuine role is simulating strongly-correlated materials for better *classical* chips. The full, source-backed map of where efficiency actually comes from is the [curriculum's North Star](https://quantummytheme.com/education).
+
 ---
 
 ## Do your own harness prep
@@ -62,11 +64,12 @@ Kept honest: the held-out reference lives *only* with the judge. The model knows
 ## Links
 
 - **Template + flagship** — [quantum-harness](https://github.com/QuantumMytheme/quantum-harness) (a GitHub template repo; "Use this template" to start)
-- **Live viewer** — [quantum-harness.pages.dev](https://quantum-harness.pages.dev) (a self-contained, in-browser showcase of the bench — paper + luminous themes)
+- **Live site** — [quantummytheme.com](https://quantummytheme.com) (the in-browser showcase of the bench — paper + luminous themes)
+- **Learn — the North Star** — [quantummytheme.com/education](https://quantummytheme.com/education) (a 39-slice curriculum: where machine intelligence actually gets more efficient, and where quantum does and doesn't fit)
 - **How a run works** — [RUN-FLOW.md](https://github.com/QuantumMytheme/quantum-harness/blob/main/RUN-FLOW.md)
 - **Contribute** — [CONTRIBUTING.md](https://github.com/QuantumMytheme/quantum-harness/blob/main/CONTRIBUTING.md) (the judge is the merge gate)
 - **Scoreboard** — [SCOREBOARD.md](https://github.com/QuantumMytheme/quantum-harness/blob/main/SCOREBOARD.md)
 
 ---
 
-<sub>**4 gates · 5 tasks · 26/26 judge checks · 82/82 measurement tests · numpy-only · offline** — MIT licensed.</sub>
+<sub>**4 gates · 5 tasks · 38/38 judge checks · 107/107 node tests · numpy-only · offline** — MIT licensed.</sub>

@@ -69,6 +69,7 @@ Kept honest: the held-out reference lives *only* with the judge. The model knows
 - **How a run works** — [RUN-FLOW.md](https://github.com/QuantumMytheme/quantum-harness/blob/main/RUN-FLOW.md)
 - **Contribute** — [CONTRIBUTING.md](https://github.com/QuantumMytheme/quantum-harness/blob/main/CONTRIBUTING.md) (the judge is the merge gate)
 - **Scoreboard** — [SCOREBOARD.md](https://github.com/QuantumMytheme/quantum-harness/blob/main/SCOREBOARD.md)
+- **Related research** — [Designing more efficient quantum circuits with Claude](https://www.anthropic.com/research/designing-efficient-quantum-circuits) (Anthropic, 2026-10; [arXiv:2610.22367](https://arxiv.org/abs/2610.22367)): the same model → automated judge → iterate loop, beating published circuits on 8 classically checkable primitives. Our notes: [findings](https://github.com/QuantumMytheme/quantum-harness/blob/main/docs/research/2026-10-anthropic-llm-circuit-discovery.md)
 
 ---
 
